@@ -39,28 +39,3 @@ dataUpload(filterDate);
 // ... a user clicks the filter button, derived from our html code.
 d3.select("#filter-btn").on("click", filterData)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// Create variables to reference our data.js objects 
-//var columns = ["date/time", "city", "state", "country", "shape", "durationMinutes", "comment"];
-//var datetime = d3.select("#datetime");
-//var city = d3.select("#city");
-//var state = d3.
-
-
-
-
-
-// STEP 3: Use a date form in your HTML document and write JavaScript code that will listen for events... 
-//and search through the date/time column to find rows that match user input.

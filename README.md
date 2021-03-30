@@ -1,4 +1,4 @@
-# javascript_challenge: JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation
 
 Background:
 We have a collection containing all of the eye-witness reports we could to prove aliens exist. All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.

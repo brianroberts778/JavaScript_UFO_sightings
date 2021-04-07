@@ -19,3 +19,4 @@ Use a date form in your HTML document and write JavaScript code that will listen
 
 <img width="1440" alt="ufo1" src="https://user-images.githubusercontent.com/70656160/113902716-32edbc00-979e-11eb-8f86-ed57de6cd9a0.png">
 
+<img width="1439" alt="ufo2" src="https://user-images.githubusercontent.com/70656160/113902872-5b75b600-979e-11eb-9c4e-ef14aa25367a.png">
